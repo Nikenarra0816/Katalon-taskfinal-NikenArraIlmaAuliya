@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-StartApplication</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c5a3e778-d94d-4199-b0b1-ec0d9e12af8e</testCaseGuid>
+</TestCaseEntity>

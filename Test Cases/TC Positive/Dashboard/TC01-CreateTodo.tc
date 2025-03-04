@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01-CreateTodo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8cc174b3-5b3b-4e9c-bcac-98ee5dc2d3d5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>937df49a-9687-450c-a38a-1e5a93481221</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>20511921-4763-4c90-85a8-e2532572fe24</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Katalon Class '</defaultValue>
+      <description></description>
+      <id>937df49a-9687-450c-a38a-1e5a93481221</id>
+      <masked>false</masked>
+      <name>tasktitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'Mobile Automation'</defaultValue>
+      <description></description>
+      <id>20511921-4763-4c90-85a8-e2532572fe24</id>
+      <masked>false</masked>
+      <name>description</name>
+   </variable>
+</TestCaseEntity>

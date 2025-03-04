@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01-CreateCategory</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cb1bd85a-88af-487a-b92c-1000dddd79af</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cea6a588-0d82-431f-ae72-6f665bc9f0f0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Health'</defaultValue>
+      <description></description>
+      <id>cea6a588-0d82-431f-ae72-6f665bc9f0f0</id>
+      <masked>false</masked>
+      <name>namecategory</name>
+   </variable>
+</TestCaseEntity>
