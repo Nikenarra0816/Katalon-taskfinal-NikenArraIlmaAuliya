@@ -11,32 +11,32 @@ Before running the tests, make sure you have the following installed:
 
 ## **Test Case Overview**
 
-↪️ Create Category (Data Driven Testing)
+**Create Category (Data Driven Testing)**
 
-This test case will verify the functionality of creating categories in the app using data-driven testing.
+↪️ This test case will verify the functionality of creating categories in the app using data-driven testing.
 
-↪️ Edit Category
+**Edit Category**
 
-This test case will check if categories can be edited successfully.
+↪️ This test case will check if categories can be edited successfully.
 
-↪️ Create Todo (If Else Statement & Switch)
+**Create Todo (If Else Statement & Switch)**
 
-This test case checks if todos can be created with conditional logic using If Else statements and Switch.
+↪️ This test case checks if todos can be created with conditional logic using If Else statements and Switch.
 
 
 ## **Test Suite Overview**
 
-↪️Test Suite Create Category
+**Test Suite Create Category**
 
-A suite that runs the test case for creating categories with different sets of data.
+↪️ A suite that runs the test case for creating categories with different sets of data.
 
-↪️ Test Suite Edit Category
+**Test Suite Edit Category**
 
-A suite that runs the test case for editing categories.
+↪️ A suite that runs the test case for editing categories.
 
-↪️ Test Suite Create Todo
+**Test Suite Create Todo**
 
-A suite that runs the test case for creating todos with conditional logic.
+↪️ A suite that runs the test case for creating todos with conditional logic.
 
 ## Setting Up the Project
 
